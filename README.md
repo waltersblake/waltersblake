@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @waltersblake
 - 👀 I’m interested in server-side development and web development
-- 🌱 I’m currently learning PHP, TypeScript, Spring Boot
+- 🌱 I’m currently learning PHP, Rust, Go
 - 💞️ I’m looking to collaborate on any of the above
 - 📫 How to reach me - email 📧
 
