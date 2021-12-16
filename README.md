@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @waltersblake
 - 👀 I’m interested in server-side development and web development
-- 🌱 I’m currently learning PHP and Kotlin
+- 🌱 I’m currently learning PHP, Dart, and Kotlin
 - 💞️ I’m looking to collaborate on any of the above
 - 📫 How to reach me - email 📧
 
