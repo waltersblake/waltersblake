@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Kotlin and Ktor
+- 💬 Ask me about working together on Java/JVM projects
+- 📫 How to reach me: email 
+
 <!--
 **waltersblake/waltersblake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
