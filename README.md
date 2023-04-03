@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Kotlin and Ktor
-- 💬 Ask me about working together on Java/JVM projects
+- 🌱 I’m currently learning Kotlin and Go
+- 💬 Ask me about working together on Java/JVM projects or Go projects
 - 📫 How to reach me: email 
 
 <!--
